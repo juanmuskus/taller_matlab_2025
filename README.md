@@ -2,7 +2,6 @@
 
 [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Taller-para-Educadores-de-MATLAB)
 
----
 [![View Implementando el método de la bisección on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/182116-implementando-el-metodo-de-la-biseccion)
 
 ---
