@@ -3,14 +3,15 @@
 [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Taller-para-Educadores-de-MATLAB)
 
 ---
+[![View Implementando el método de la bisección on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/182116-implementando-el-metodo-de-la-biseccion)
+
+---
 
 ## Autor
 **Juan Manuel Muskus Muskus**  
 Correo: *jmuskus@correo.unicordoba.edu.co*  
 Universidad de Córdoba  
 
----
-[![View Implementando el método de la bisección on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/182116-implementando-el-metodo-de-la-biseccion)
 ---
 ## Resumen de la actividad
 La actividad consiste en implementar y aplicar el **método numérico de la bisección** para aproximar la raíz de una función no lineal utilizando **MATLAB Online**.  
